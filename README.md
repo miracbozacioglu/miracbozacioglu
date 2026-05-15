@@ -147,7 +147,7 @@ me.say_hi()
 ## 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mira%C3%A7-bozac%C4%B1o%C4%9Flu-3a2960351/">
+  <a href="https://www.linkedin.com/in/mira%C3%A7-bozac%C4%B1o%C4%9Flu-3a2960351/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@mbozacioglu06">
