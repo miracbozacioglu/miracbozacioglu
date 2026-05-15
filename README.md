@@ -10,7 +10,7 @@
 
 <!-- ================= PROFILE VIEWS ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Miracbz&label=Profile%20views&color=8A2BE2&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=miracbozacioglu&label=Profile%20views&color=8A2BE2&style=for-the-badge" />
 </p>
 
 <br>
@@ -121,16 +121,16 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miracbz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miracbz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miracbozacioglu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracbozacioglu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miracbz&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miracbozacioglu&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Miracbz&theme=tokyonight&no-frame=true&margin-w=10&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=miracbozacioglu&theme=tokyonight&no-frame=true&margin-w=10&column=7" />
 </p>
 
 <br>
@@ -139,7 +139,7 @@ me.say_hi()
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Miracbz/Miracbz/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/miracbozacioglu/miracbozacioglu/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <br>
@@ -148,10 +148,10 @@ me.say_hi()
 ## 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/KULLANICI_ADIN">
+  <a href="https://www.linkedin.com/in/mira%C3%A7-bozac%C4%B1o%C4%9Flu-3a2960351/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@KULLANICI_ADIN">
+  <a href="https://medium.com/@mbozacioglu06">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
