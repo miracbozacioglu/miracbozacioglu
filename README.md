@@ -150,7 +150,7 @@ me.say_hi()
   <a href="https://www.linkedin.com/in/mira%C3%A7-bozac%C4%B1o%C4%9Flu-3a2960351/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@mbozacioglu06">
+  <a href="https://medium.com/@mbozacioglu06" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
